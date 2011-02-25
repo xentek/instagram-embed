@@ -24,11 +24,9 @@ The values t, m, or l correspond to the thumbnail, medium, and large sizes of th
 
 An iPhone (only) App that allows you to add filters to your crappy iPhone pics and turn them into some kind of digital gold. 
 
-I don't work there, I'm just a fan.
+I don't work there, I'm just a fan. Learn more here: http://instagram.com/
 
-= How do I style the output? I want to wrap the image in a bunch of divs to make it easier for me to style? =
-
-I'm glad you asked.
+= I want to wrap the image in a bunch of divs to make it easier for me to style. =
 
 This plugin only outputs a simple img tag with nothing more than the class instagram-photo and a unique ID. This, in most cases, should be enough to make the embeded image(s) more malleable in the DOM, but for more advanced uses, just add a filter.
 
@@ -49,12 +47,14 @@ Example:
 == Changelog ==
 
 = 0.1 =
+
 * Initial Release
 
 == Upgrade Notice ==
 
 = 0.1 =
-Thanks for the API, Instagram!
+
+* Thanks for the API, Instagram!
 
 == License ==
 
