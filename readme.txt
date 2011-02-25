@@ -39,6 +39,8 @@ I don't work there, I'm just a fan. Learn more here: http://instagram.com/
 
 = I want to wrap the image in a bunch of divs to make it easier for me to style. =
 
+Less is more.
+
 This plugin only outputs a simple img tag with nothing more than the class instagram-photo and a unique ID. This, in most cases, should be enough to make the embeded image(s) more malleable in the DOM, but for more advanced uses, just add a filter.
 
 Example:
