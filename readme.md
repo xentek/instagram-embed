@@ -16,7 +16,7 @@ The values t, m, or l correspond to the thumbnail, medium, and large sizes of th
 
 1. Upload the plugin folder (after you unzip the download) to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Embed some Instagram love in your 
+1. Embed some Instagram love in your posts
 
 == Frequently Asked Questions ==
 

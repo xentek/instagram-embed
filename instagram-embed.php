@@ -3,7 +3,7 @@
 Plugin Name: Instagram Oembed
 Plugin URI: http://xentek.net/
 Description: Enables oEmbed support for Instagram Photos
-Version: 0.1
+Version: 0.2
 Author: Eric Marden
 Author URI: http://xentek.net/ 
 */
