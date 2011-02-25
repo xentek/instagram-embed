@@ -1,4 +1,5 @@
 === Instagram Embed ===
+
 Contributors: xenlab
 Donate link: http://j.mp/donate-to-xentek
 Tags: instagram, embed, oembed
