@@ -34,13 +34,11 @@ This plugin only outputs a simple img tag with nothing more than the class insta
 
 Example:
 
-`<?php
-	add_filter( 'embed_instagram', 'my_rad_instagram_filter', 10, 4 );
-	function my_rad_instagram_filter( $embed, $matches, $attr, $url, $rawattr )
-	{
-		return '<a href="' . $url . '">' . $embed . '</a>';
-	}
-?>`
+add_filter( 'embed_instagram', 'my_rad_instagram_filter', 10, 4 );
+function my_rad_instagram_filter( $embed, $matches, $attr, $url, $rawattr )
+{
+	return '<a href="' . $url . '">' . $embed . '</a>';
+}
 
 == Screenshots ==
 
