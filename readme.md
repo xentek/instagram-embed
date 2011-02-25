@@ -4,11 +4,10 @@ Easily embed your Instagram photos into WordPress posts (or pages) by placing th
 
 Shortcode Examples:
 
-`
-[embed size=t]http://instagr.am/p/BsUh5/[/embed]
-[embed size=m]http://instagr.am/p/BsUh5/[/embed]
-[embed size=l]http://instagr.am/p/BsUh5/[/embed]
-`
+`[embed size=t]http://instagr.am/p/BsUh5/[/embed]`
+`[embed size=m]http://instagr.am/p/BsUh5/[/embed]`
+`[embed size=l]http://instagr.am/p/BsUh5/[/embed]`
+
 The values t, m, or l correspond to the thumbnail, medium, and large sizes of the images. Medium is the default size.
 
 == Installation ==
