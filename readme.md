@@ -1,24 +1,14 @@
 === Instagram Embed ===
 
-Contributors: xenlab
-Donate link: http://j.mp/donate-to-xentek
-Tags: instagram, embed, oembed
-Requires at least: 2.9
-Tested up to: 3.1
-Stable tag: trunk
- 
-Easily embed your Instagram photos into WordPress posts (or pages).
-
-== Description ==
-
 Easily embed your Instagram photos into WordPress posts (or pages) by placing the instagram url on its own line. For more control, wrap the url in the embed shortcode and pass it one of three values via the size attribute.
 
 Shortcode Examples:
 
+`
 [embed size=t]http://instagr.am/p/BsUh5/[/embed]
 [embed size=m]http://instagr.am/p/BsUh5/[/embed]
 [embed size=l]http://instagr.am/p/BsUh5/[/embed]
-
+`
 The values t, m, or l correspond to the thumbnail, medium, and large sizes of the images. Medium is the default size.
 
 == Installation ==
